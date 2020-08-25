@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+        "python_interpreter": "/Users/nick/Desktop/Python/machine-learning/env/bin/python",
+        "anaconda_linting": false,
+        "pep257": false,
+        "test_command": "python -m unittest discover",
+        "use_pylint": false,
+        "validate_imports": true
+    }
+}
